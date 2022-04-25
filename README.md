@@ -1,0 +1,2 @@
+# LiteSensorPrivacyPolicy
+LiteSensor Privacy Policy
